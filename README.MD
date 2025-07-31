@@ -1,5 +1,8 @@
 # Anemia Detection & Women's Health Assistant using GROQ + LangChain
 
+## Link to project : https://colab.research.google.com/drive/1QTg5gglSh8dSLJ1z7tl0xcflT1_UpPt7?usp=sharing
+
+
 This project is a Colab-based AI assistant that can:
 -  Extract lab values from PDFs
 -  Classify anemia types (Microcytic, Macrocytic, Normocytic)
