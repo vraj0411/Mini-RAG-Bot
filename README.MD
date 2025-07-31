@@ -31,8 +31,7 @@ F --> G[Display Doctor's Answer]
 
 Run the following in Google Colab:
 
-!pip install pdfplumber ipywidgets googletrans==4.0.0-rc1 langchain faiss-cpu
-!pip install -U sentence-transformers
+pip install -U langchain langchain-community langchain-core langchain-huggingface faiss-cpu sentence-transformers openai wikipedia pdfplumber ipywidgets requests groq
 
 Enable widget support in Colab:
 
